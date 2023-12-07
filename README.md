@@ -1,5 +1,5 @@
-# Simplest-FFmpeg-Decoder
-一个最简单的基于FFmpeg的解码器。本程序实现了视频文件的解码，支持HEVC，H.264，MPEG2等。
+# Simplest-FFmpeg-Video-Decoder
+一个最简单的基于FFmpeg的视频解码器。本程序实现了视频文件的解码，支持HEVC，H.264，MPEG2等。
 
 运行程序后，对于测试文件，会在原目录下输出以下几种文件：
 1. output.h264：解码前的H.264码流数据（只对MPEG-TS，AVI格式作要求）；
